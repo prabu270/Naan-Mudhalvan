@@ -129,9 +129,10 @@ The project is documented in eight phases:
 
 ## Project Links
 
-* **GitHub Repository:** Add your repository URL here.
-* **Live Application:** Add your Render URL here after deployment.
-* **Demo Video:** Add your Google Drive video URL here after recording.
+* **GitHub Repository:** https://github.com/prabu270/Naan-Mudhalvan
+* **Live Application:** Coming soon — Render deployment
+* **Demo Video:** Coming soon — Demo video
+
 
 ## Future Enhancements
 
