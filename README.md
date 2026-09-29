@@ -23,9 +23,14 @@ LegalEase is an AI-powered application designed to help users generate professio
 
 ## Open LegalEase
 
-**[Click here to open the application](YOUR_RENDER_APP_URL)**
+## 🚀 Open LegalEase
 
-*Replace the placeholder with your deployed Render URL once deployment is complete.*
+**Live Application:** Coming soon — Render deployment
+
+**Demo Video:** Coming soon — Demo video
+
+**GitHub Repository:** https://github.com/prabu270/Naan-Mudhalvan
+
 
 ## Run Locally
 
