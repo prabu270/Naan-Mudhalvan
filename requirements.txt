@@ -11,3 +11,4 @@ Pillow
 google-genai
 pytest
 httpx
+reportlab
